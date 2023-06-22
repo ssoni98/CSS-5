@@ -1,0 +1,222 @@
+
+*{
+    
+    @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+  
+  }
+  
+  
+  nav>a{
+      text-decoration: none;
+      color: #fff;
+  }
+  .Header{
+      padding: 10px;
+      margin: auto;
+      border: 5px;
+      display: flex;
+  
+  }
+  
+  #myAccount{
+      padding: 10px;
+      margin: auto;
+      
+  }
+  .Header-right{
+      display: flex;
+      padding: 20px;
+      margin-top: 10px;
+      margin-left: 50%;
+  }
+  header h1{
+       display: block;
+      
+       background-color:darkgrey;
+       text-decoration: black;
+  
+  
+  }
+  #MyAccount {
+  
+      margin: 5px;
+      padding: auto;
+      border: 2px;
+  
+  }
+  #contacts{
+      margin-left: 10px;
+      display: block;
+  
+  }
+  
+  .nav-bar{
+      display: flex;
+    
+      margin-left: 30px;
+      padding: 20px;
+      border: 10px;
+      margin: auto;
+      background-color: blueviolet;
+  
+  
+  
+      
+  }
+  .nav-bar nav{
+      display: flex;
+      font: 1em sans-serif;
+      color: aliceblue;
+  
+  
+  }
+  
+  #overview{
+      display: block;
+       padding: 5px;
+       margin-left: 5px;
+       color: aliceblue;
+  
+  }
+  
+  #Restraunt{
+      display: block;
+      margin-left: 20px;
+      color: aliceblue;
+  }
+  
+  #Service{
+      display: block;
+      margin-left: 20px;
+      color: aliceblue;
+  }
+  #Meeting{
+      display: block;
+      margin-left: 20px;
+      color: aliceblue;
+  }
+  
+  #Offers{
+      display: block;
+      margin-left: 20px;
+      padding: auto;
+      color: aliceblue; 
+  
+  }
+  
+  /* section-2 hotel image and detail  */
+  
+  .container{
+      display: flex;
+      justify-content: space-evenly;
+      padding: 20px;
+      margin: 20px;
+     
+  
+  
+  }
+  
+  .image>img{
+    
+  height: 500px;
+  width: auto;
+   
+  }
+  .image-cards{
+      
+      background-color:cadetblue
+      
+  }
+  .image-cards>h1{
+     
+      font-weight: 500px;
+      color: #fff;
+      text-align: left;
+      letter-spacing: 5px;
+  
+      text-decoration: solid;
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  
+      
+  }
+  .image-cards>p{
+      text-align: left;
+      color: #fff;
+      margin-top: 20px;
+      letter-spacing: 2px;
+  
+  }
+  .text{
+     font-size: large;
+     padding: 10px;
+     text-align: left;
+     
+   
+    
+  }
+  fieldset>legend>button{
+      
+      background-color: green;
+      border-radius: 10px;
+      font-weight: 200px;
+      
+  }
+  
+  /* section-restraunt  */
+  
+  .Restraunt{
+      padding: 10px;
+      margin: 10px;
+      margin-left: 30px;
+      
+      width: auto;
+      height: auto;
+  }
+  .restraunt-detail{
+      padding: 10px;
+      margin: 20px;
+  
+     
+     
+      display: flex;
+      
+  
+  }
+  .restaurant-about{
+      width: 800px;
+      height: 600px;
+  
+      background-color: cadetblue;
+  
+  }
+  .restaurant-about>h1{
+      text-align: center;
+      padding: 20px;
+      color:brown
+  }
+  .restaurant-about>p{
+      text-align: center;
+      padding: 20px;
+      
+  }
+  
+  img{
+      height: 600px;
+      width: 600px;
+  }
+  
+  .location>h2{
+      text-align: center;
+  }
+  
+  footer{
+      width: auto;
+      height: 800px;
+      background-color: cadetblue;
+      padding: 30px;
+      margin: 20px;
+      padding-bottom: 50px;
+      margin-bottom: 30px;
+  
+  }
+  
